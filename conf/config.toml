@@ -1,0 +1,4 @@
+[log]
+Path   = "/tmp/log/server"
+Level  = "info"
+Stdout = true
